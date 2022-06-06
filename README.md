@@ -6,4 +6,7 @@
 [3. Fluxo de desenvolvimento remoto](./fluxo-de-desenvolvimento-remoto.md)
 
 
-
+## NOME DOS INTEGRANTES
+- Beatriz Friso de Paula
+- Maíra Heloisa Silva Oliveira
+- Renata Ji Young Kim
