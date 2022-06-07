@@ -27,5 +27,5 @@ git commit -m "escrever comentario aqui"
 ### 2.5. Listar todo histórico de versionamento do repositório
 
 ```
-git ls
+git log
 ```
