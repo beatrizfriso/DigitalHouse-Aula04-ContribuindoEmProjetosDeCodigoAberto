@@ -9,7 +9,7 @@ git clone linkdorepositorio.git
 ### 3.2. Definir qual o endereço do repositório remoto receberá o código-fonte do repositório local
 
 ```
-git remote origin linkdorepositorioremoto.git
+git remote nome-do-servidor linkdorepositorioremoto.git
 
 ```
 
